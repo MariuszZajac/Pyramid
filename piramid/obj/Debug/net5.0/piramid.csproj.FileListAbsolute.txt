@@ -1,0 +1,16 @@
+C:\Users\Ed\RiderProjects\piramid\piramid\bin\Debug\net5.0\piramid.exe
+C:\Users\Ed\RiderProjects\piramid\piramid\bin\Debug\net5.0\piramid.deps.json
+C:\Users\Ed\RiderProjects\piramid\piramid\bin\Debug\net5.0\piramid.runtimeconfig.json
+C:\Users\Ed\RiderProjects\piramid\piramid\bin\Debug\net5.0\piramid.runtimeconfig.dev.json
+C:\Users\Ed\RiderProjects\piramid\piramid\bin\Debug\net5.0\piramid.dll
+C:\Users\Ed\RiderProjects\piramid\piramid\bin\Debug\net5.0\ref\piramid.dll
+C:\Users\Ed\RiderProjects\piramid\piramid\bin\Debug\net5.0\piramid.pdb
+C:\Users\Ed\RiderProjects\piramid\piramid\obj\Debug\net5.0\piramid.csproj.AssemblyReference.cache
+C:\Users\Ed\RiderProjects\piramid\piramid\obj\Debug\net5.0\piramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\RiderProjects\piramid\piramid\obj\Debug\net5.0\piramid.AssemblyInfoInputs.cache
+C:\Users\Ed\RiderProjects\piramid\piramid\obj\Debug\net5.0\piramid.AssemblyInfo.cs
+C:\Users\Ed\RiderProjects\piramid\piramid\obj\Debug\net5.0\piramid.csproj.CoreCompileInputs.cache
+C:\Users\Ed\RiderProjects\piramid\piramid\obj\Debug\net5.0\piramid.dll
+C:\Users\Ed\RiderProjects\piramid\piramid\obj\Debug\net5.0\ref\piramid.dll
+C:\Users\Ed\RiderProjects\piramid\piramid\obj\Debug\net5.0\piramid.pdb
+C:\Users\Ed\RiderProjects\piramid\piramid\obj\Debug\net5.0\piramid.genruntimeconfig.cache

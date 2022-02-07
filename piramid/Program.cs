@@ -1,11 +1,26 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace piramid
 {
     class Program
     {
        public static void Main(string[] args)
-        {
+       {
+           int[] values;//all numbers block in piramiid
+           var oneValue = new ArrayList(values);
+           var list = (IList<int>) oneValue; //Add block number to list
+           
+           
+           
+           ArrayList piramidList = new ArrayList();
+          
+           
+           
+           List<int> piramidIntList = new List<int>();
+           
+
             /* int givenLength = 6;
              int[,] composedMatrice = new int[givenLength, givenLength];
              int number = 0;
@@ -35,7 +50,7 @@ namespace piramid
          }*/
 
             Console.WriteLine(CountElements(4));
-            Console.WriteLine(PiramidCreate(4,1,2,2));
+            Console.WriteLine(PiramidCreate(4);
 
            
 
@@ -51,27 +66,21 @@ namespace piramid
                 return count;
             }
 
-             int PiramidCreate(int n, int wiersz,  int kolumna, int poziom)
+             void PiramidCreate(int n)
              {
-                 int number = 0;
-                 for (int i = 0; i <= poziom; i++) 
+               
+                 
+                 int[][,] Piramid = new int[n][,]
                  {
-                     number += (n - i)*(n-i) ;
-                 }
-
-                 return number + ((n - poziom) * wiersz) + kolumna;
+                     new int[,] {{7, 8, 9}, {4, 5, 6}, {1, 2, 3}},
+                     new int[,] {{10, 11}, {12, 13}},
+                     new int[,] {{14}}
+                 };
              }
+             
+             
 
-             int n = 3;
-             int x = n - 1;
-             int[][,] Piramid = new int[n][,]
-             {
-                 new int[,]{},
-                 new int[,]{},
-                 new int[,]{}
-             };
-
-            Console.ReadLine();
+             Console.ReadLine();
         }
     }
 }

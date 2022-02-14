@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ed\\RiderProjects\\JaggedArray__try-\\piramid\\piramid.csproj",
-      "projectName": "piramid",
-      "projectPath": "C:\\Users\\Ed\\RiderProjects\\JaggedArray__try-\\piramid\\piramid.csproj",
+      "projectUniqueName": "C:\\Users\\Ed\\RiderProjects\\JaggedArray__try-\\Pyramid\\Pyramid.csproj",
+      "projectName": "Pyramid",
+      "projectPath": "C:\\Users\\Ed\\RiderProjects\\JaggedArray__try-\\Pyramid\\Pyramid.csproj",
       "packagesPath": "C:\\Users\\Ed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ed\\RiderProjects\\JaggedArray__try-\\piramid\\obj\\",
+      "outputPath": "C:\\Users\\Ed\\RiderProjects\\JaggedArray__try-\\Pyramid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
